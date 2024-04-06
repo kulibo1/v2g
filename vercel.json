@@ -6,7 +6,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "https://translate.googleapis.com/$1"
+            "dest": "https://raw.githubusercontent.com/$1"
         }
     ]
 }
